@@ -5,7 +5,7 @@
 - Poszukuje pomocy przy moim projekcie. 🤔
 - Ciekawostka: Lubie grać w koszykówke 🏀
 
-Moja strona internetowa: 
+Moja strona internetowa: https://burdamichal.github.io/
 
 
 
