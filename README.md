@@ -8,6 +8,6 @@
 Moja strona internetowa: https://burdamichal.github.io/
 
 Link do rezpozytorium :
-
+Link do artykułu: https://paperswithcode.com/paper/food-ingredients-recognition-through-multi
 
 
