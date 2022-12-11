@@ -7,7 +7,7 @@
 
 Moja strona internetowa: https://burdamichal.github.io/
 
-Link do rezpozytorium :
+Link do rezpozytorium : https://github.com/BurdaMichal/Rozpoznawanie-skladnikow-zywnosci-dzieki-uczeniu-sie-wielu-etykiet/blob/main/README.md
 Link do artykułu: https://paperswithcode.com/paper/food-ingredients-recognition-through-multi
 
 
